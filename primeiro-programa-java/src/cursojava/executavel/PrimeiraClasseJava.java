@@ -4,7 +4,7 @@ public class PrimeiraClasseJava {
  
 		public static void main(String[] args) {
 		
-			System.out.println("Escreve o texto no console");	
+			System.out.println("Primeiro Curso java teste ");	
 }
 	
 }
